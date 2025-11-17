@@ -1,0 +1,4 @@
+#notes
+
+ansible - Ansible is an open-source automation tool used for configuration management, application deployment, and orchestration. It’s agentless and works over SSH, making it very popular for DevOps workflows.
+
